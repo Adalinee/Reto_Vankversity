@@ -40,7 +40,7 @@ function analizarRutinas() {
         puntaje++;
     }
 
-    alert(`Tu puntuación de hábitos saludables es: ${puntaje}/5. ${puntaje < 3 ? "Hay espacio para mejorar." : "¡Vas por buen camino!"}`);
+    alert(`Tu puntuación de hábitos saludables es: ${puntaje}/5. ${puntaje < 3 ? "Animo que puedes mejorar 😁👍." : "¡Vas por buen camino!"}`);
     return puntaje;
 }
 
